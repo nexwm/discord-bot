@@ -1,5 +1,5 @@
 # Discord-Bot - Nexem
-This is written node.js discord bot. 
+This is written by javascript (js) discord bot. 
 
 You can check Commands: /register, /login, /logout, /startleaderboard, /leaderboard, /add, /remove, /transfer. 
 
